@@ -1,0 +1,7 @@
+{
+  "MainUrl": "https://store.steampowered.com/",
+  "Width": 1920,
+  "Height": 1080,
+  "WaitTime": 10,
+  "Browser": "Chrome"
+}
